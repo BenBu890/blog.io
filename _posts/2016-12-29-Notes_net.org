@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2016-12-29 15:45:12 +0000
+categories: jekyll update
+tags: [总结,知识管理]
+description: no
+---
+#+begin_workprocess
+only use capture to catch things 
+review and to refile
+put into working que
+check in website
+follow important
+refine document
+think like a company
+focus on out come 
+work flow
+  - work updated to itticket
+  - one task a time and track in emacs
+  - backup and how to restore everything without lose
+  - 2 domain sql and powershell
+  - 3 projects  deployment / monitor / dr
+  - 2 improvement project / presentation
+#+end_workprocess
+
+* config
+
+#+STARTUP: overview
+#+STARTUP: hidestars
+#+STARTUP: logdone
+
+#+TAGS: { sheila(s) sherin(e) rouxben}
+#+COLUMNS: %38ITEM(Details) %TAGS(Context) %7TODO(To Do) %5Effort(Time){:} %6CLOCKSUM{Total}
+#+TAGS: { p1 p2 p3 }
+#+TAGS: { Describe Draw Map Archive }
+#+TAGS: { Exchange SQL(q) Powershell Script Ecare Emacas IEServer Infra }
+
+* asp tech
+Read the blog list about .net stack and mvc stack
+[[http://cuicheng123.com/Post/Details/b5ff7315-b01d-4335-bba9-cd55734f3384][.net stack core]]
+
+* front end tech guide
+[[https://github.com/cuicheng11165/FE-learning]] this as a entering point
